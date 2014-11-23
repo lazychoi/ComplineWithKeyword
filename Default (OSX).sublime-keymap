@@ -1,0 +1,5 @@
+[
+	{ 
+		"keys": ["ctrl+,"], "command": "compline_with_keyword" 
+	}
+]
